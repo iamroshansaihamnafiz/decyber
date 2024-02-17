@@ -1,0 +1,31 @@
+{
+  "highlightText": "TESTIMONIAL",
+  "heading": "What they say about us",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec",
+  "testimonials": [
+    {
+      "timage": "/asset/images/ts1.jpg",
+      "name": "Tommy Walker",
+      "title": "CEO, Makko",
+      "testimonial": "Their managed IT services have been exceptional. Downtime is now a thing of the past, and our systems are running smoother than ever, thanks to their dedicated 24/7 support team."
+    },
+    {
+      "timage": "/asset/images/ts2.jpg",
+      "name": "Alicia Zheng",
+      "title": "CTO, InnoTech Dynamics",
+      "testimonial": "Their managed IT services have been exceptional. Downtime is now a thing of the past, and our systems are running smoother than ever, thanks to their dedicated 24/7 support team."
+    },
+    {
+      "timage": "/asset/images/ts3.jpg",
+      "name": "Marcus Reed",
+      "title": "Operations Director",
+      "testimonial": "Their managed IT services have been exceptional. Downtime is now a thing of the past, and our systems are running smoother than ever, thanks to their dedicated 24/7 support team."
+    },
+    {
+      "timage": "/asset/images/ts1.jpg",
+      "name": "Sophia Castellanos",
+      "title": "Digital Marketing Manager",
+      "testimonial": "Their managed IT services have been exceptional. Downtime is now a thing of the past, and our systems are running smoother than ever, thanks to their dedicated 24/7 support team."
+    }
+  ]
+}

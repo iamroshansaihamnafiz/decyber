@@ -1,0 +1,28 @@
+{
+  "highlightText": "WHY CHOOSE US",
+  "heading": "Protecting your assets and your brand",
+  "description": "Secure your operational integrity and corporate reputation with our comprehensive IT services, where safeguarding your assets is at the heart of what we do.",
+  "button": "Learn more",
+  "reasons": [
+    {
+      "icon": "/asset/images/1.svg",
+      "title": "Free Consultation",
+      "description": "Begin your journey to IT excellence with our no-cost, comprehensive consultation, customizing solutions to your unique business needs."
+    },
+    {
+      "icon": "/asset/images/1.svg",
+      "title": "Certified Professional Experts",
+      "description": "Trust in our accredited professionals to deliver excellence, with a proven track record of driving successful IT projects. Vitae eu vestibulum."
+    },
+    {
+      "icon": "/asset/images/1.svg",
+      "title": "Security on a global scale",
+      "description": "Your digital assets are protected around the clock with our global security measures, ensuring your business stays resilient in any scenario."
+    },
+    {
+      "icon": "/asset/images/1.svg",
+      "title": "24/7 Premium Support",
+      "description": "Experience our around-the-clock premium support, providing you with the assurance that we are here for you whenever you need us."
+    }
+  ]
+}

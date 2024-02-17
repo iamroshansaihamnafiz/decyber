@@ -1,0 +1,37 @@
+{
+  "HighlightText": "WHAT WE OFFER",
+  "heading": "Comprehensive IT",
+  "description": "Our extensive suite of IT solutions is designed to meet every aspect of your digital needs.",
+  "offers": [
+    {
+      "name": "IT Consulting",
+      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "icon": "/asset/images/1.svg"
+    },
+    {
+      "name": "IT Audit & Assurance",
+      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "icon": "/asset/images/2.svg"
+    },
+    {
+      "name": "Cybersecurity Solutions",
+      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "icon": "/asset/images/3.svg"
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "icon": "/asset/images/4.svg"
+    },
+    {
+      "name": "VOIP Integration",
+      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "icon": "/asset/images/5.svg"
+    },
+    {
+      "name": "Managed IT Services",
+      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "icon": "/asset/images/6.svg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "heading": "Newsletter",
+  "subHeading": "Signup our newsletter to get update information, news, insight or promotions.",
+  "Services": [
+    "Network Protections",
+    "Server Protections",
+    "Secure IT Infrastructure",
+    "Vulnerability Assessment",
+    "Secure Transactions",
+    "Antivirus"
+  ],
+  "Support": [
+    "Help Center",
+    "Ticket Support",
+    "FAQ",
+    "Contact us",
+    "Community"
+  ],
+  "Company": [
+    "About us",
+    "Leadership",
+    "Careers",
+    "News & Article",
+    "Legal Notice"
+  ],
+  "footerLogo": "/asset/images/logo-white.svg",
+  "copyright": "Copyright © 2022 decyber, All rights reserved."
+}
