@@ -49,7 +49,7 @@ function StatisticsSection(props) {
                                                     <>
                                                         <span ref={countUpRef} />
                                                         {index === 1 && '.8%'} {/* Add '%' only for the second div */}
-                                                        {index === 2 && 'K'} {/* Add 'k' only for the third div */}
+                                                        {index === 2 && '%'} {/* Add 'k' only for the third div */}
                                                     </>
                                                 )}
                                             </CountUp>

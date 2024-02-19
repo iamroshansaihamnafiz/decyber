@@ -5,32 +5,32 @@
   "offers": [
     {
       "name": "IT Consulting",
-      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "description": "Offer practical, scalable, and cost-effective IT strategy for small to medium-sized businesses.",
       "icon": "/asset/images/1.svg"
     },
     {
       "name": "IT Audit & Assurance",
-      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "description": "Enhance operational integrity with our thorough IT audits, delivering assurance and compliance in a complex digital landscape.",
       "icon": "/asset/images/2.svg"
     },
     {
       "name": "Cybersecurity Solutions",
-      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "description": "Defend against cyber threats with our bespoke security strategies, tailored to safeguard your digital assets effectively.",
       "icon": "/asset/images/3.svg"
     },
     {
       "name": "Cloud & Infrastructure",
-      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "description": "Optimize your cloud presence and IT infrastructure for scalability and performance, ensuring business continuity and efficiency.",
       "icon": "/asset/images/4.svg"
     },
     {
       "name": "VOIP Integration",
-      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "description": "Upgrade your communication systems with our VOIP solutions, including seamless Microsoft Teams integration for improved connectivity.",
       "icon": "/asset/images/5.svg"
     },
     {
       "name": "Managed IT Services",
-      "description": "Ipsum duis nisl eget ut sed phasellus molestie vivamus euismod.",
+      "description": "Experience end-to-end IT support with our managed services, encompassing everything from Google Workspace to online backups.",
       "icon": "/asset/images/6.svg"
     }
   ]

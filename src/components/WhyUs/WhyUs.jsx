@@ -19,7 +19,7 @@ function WhyUs(props) {
                      }}
             >
                 <div className="container pt-8">
-                    <div className="pt-10 head-wrap grid grid-cols-1 lg:grid-cols-2 gap-6">
+                    <div className="pt-10 head-wrap grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
                         <div className="col">
                               <span className="text-primary text-md">
                             {highlightText}
@@ -32,10 +32,6 @@ function WhyUs(props) {
                             <p className="mt-4 text-gray-300">
                                 {description}
                             </p>
-                            <button
-                                className="button mt-6 rounded-md text-md text-black py-2 px-6 bg-primary hover:shadow-lg hover:shadow-cyan-500/50 hover:text-white hover:bg-[#27AFE8] transition">
-                                {button}
-                            </button>
                         </div>
                     </div>
                     <div
@@ -45,7 +41,7 @@ function WhyUs(props) {
                                  className="col bg-[#0d264a] text-white rounded py-8 px-4 my-4 lg:my-0">
                                 <div className="block lg:flex justify-center gap-4">
                                     <div className="icon flex justify-center lg:block">
-                                        <Image src={reason.icon} className="" width={100} height={100} alt="IconImg"/>
+                                        <Image src={reason.icon} width={100} height={100} alt="IconImg"/>
                                     </div>
                                     <div className="text text-center lg:text-left mt-4 lg:mt-0">
                                         <h1 className="font-semibold text-xl">{reason.title}</h1>

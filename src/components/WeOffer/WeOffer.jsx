@@ -38,10 +38,6 @@ function WeOffer(props) {
                                 <p className="text-gray-300 mt-4">
                                     {offer.description}
                                 </p>
-                                <button
-                                    className="button mt-6 rounded-md text-sm text-black py-2 px-6 bg-primary hover:shadow-lg hover:shadow-cyan-500/50 hover:text-white hover:bg-[#27AFE8] transition">
-                                    Learn More
-                                </button>
                             </div>
                         ))}
                     </div>

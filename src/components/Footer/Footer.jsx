@@ -80,7 +80,7 @@ function Footer(props) {
                     </div>
                 </div>
 
-                <div className="copyright py-8 mt-8 border-t border-gray-600 mx-10">
+                <div className="copyright container py-8 mt-8 border-t border-gray-600">
                     <div className="block sm:flex items-center justify-between">
                         <div className="logo">
                             <Image src={footerLogo} className="w-32" width={100} height={100} alt="footerLogo"/>

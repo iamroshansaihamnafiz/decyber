@@ -29,23 +29,12 @@ h1, h2, h3, h4, h5, h6 {
     position: fixed;
     z-index: 2;
     left: 0;
-    top: 15%;
+    top: 12%;
     transition: 0.3s ease-in-out;
     height: 0px;
 }
 
 .show_menu {
-    top: 15% !important;
+    top: 12% !important;
     height: 210px !important;
-}
-
-/*------------------- Hero Slider Overlay -------------------*/
-#hero-section .banner .overlay-color {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.48), rgba(22, 68, 120, 0.6));
-    pointer-events: none;
 }

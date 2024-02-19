@@ -6,6 +6,7 @@ import StatisticsSection from "@/components/StatisticsSection/StatisticsSection"
 import Banner from "@/components/Banner/Banner";
 import WhyUs from "@/components/WhyUs/WhyUs";
 import Testimonial from "@/components/Testimonial/Testimonial";
+import Contact from "@/components/Contact/Contact";
 
 export default function Home() {
     return (
@@ -17,6 +18,7 @@ export default function Home() {
             <Banner/>
             <WhyUs/>
             <Testimonial/>
+            <Contact/>
             <Footer/>
         </>
     );

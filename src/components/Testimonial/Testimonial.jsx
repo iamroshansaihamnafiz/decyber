@@ -10,7 +10,7 @@ import 'swiper/css/pagination';
 import {Pagination} from 'swiper/modules';
 
 function Testimonial(props) {
-    const {highlightText, heading, description, testimonials} = testimonialData;
+    const {highlightText, heading, testimonials} = testimonialData;
     const pagination = {
         clickable: true,
     };
@@ -27,10 +27,6 @@ function Testimonial(props) {
                         <h1 className="mt-4 font-bold text-5xl text-white leading-[55px]">
                             {heading}
                         </h1>
-                        <p className="mt-6 text-gray-300">
-                            {description}<br/>
-                            ullamcorper mattis, pulvinar dapibus leo.
-                        </p>
                     </div>
 
                     <div className="mt-8">
@@ -79,23 +75,24 @@ function Testimonial(props) {
                             {testimonials.map((item, index) => (
                                 <SwiperSlide key={index} className="mt-8">
                                     <div
-                                        className="col bg-[#0B2347] cursor-pointer text-center text-white border border-gray-600 rounded py-8 px-6">
+                                        className="col bg-[#0B2347] cursor-pointer text-center text-white border border-gray-600 rounded md:h-[380px] lg:h-[400px] py-8 px-12">
                                         <p className="text-gray-300 italic text-lg mt-4">
                                             {item.testimonial}
                                         </p>
                                         <div className="flex items-center justify-center gap-4 mt-4">
                                             <div className="icon flex items-center justify-center">
-                                        <span>
-                                            <Image src={item.timage} className="w-10 h-10 rounded-full" width={100}
-                                                   height={100}
-                                                   alt="Timg"/>
-                                        </span>
+                                                <span>
+                                                    <Image src={item.timage} className="w-10 h-10 rounded-full"
+                                                           width={100}
+                                                           height={100}
+                                                           alt="Timg"/>
+                                                </span>
                                             </div>
                                             <div className="two text-left">
                                                 <h3 className="font-semibold text-primary text-lg mt-4">
                                                     {item.name}
                                                 </h3>
-                                                <p className="mt-1 text-md">
+                                                <p className="mt-1 text-sm">
                                                     {item.title}
                                                 </p>
                                             </div>
