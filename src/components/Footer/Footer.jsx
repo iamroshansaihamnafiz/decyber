@@ -19,11 +19,11 @@ function Footer(props) {
                             <h4 className="font-semibold text-gray-300 text-lg mt-4">
                                 {subHeading}
                             </h4>
-                            <div className="flex items-center gap-4 mt-4">
+                            <div className="block sm:flex items-center gap-4 mt-4">
                                 <input type="email" className="pl-3 py-3 px-8 outline-0 rounded bg-[#0A3967]"
                                        placeholder="Email"/>
                                 <button
-                                    className="flex items-center gap-2 button rounded-md text-md text-black py-3 px-6 bg-primary hover:shadow-lg hover:shadow-cyan-500/50 hover:text-white hover:bg-[#27AFE8] transition">
+                                    className="mt-4 sm:mt-0 flex items-center gap-2 button rounded-md text-md text-black py-3 px-6 bg-primary hover:shadow-lg hover:shadow-cyan-500/50 hover:text-white hover:bg-[#27AFE8] transition">
                                     Sign Up
                                     <CiMail size={22}/>
                                 </button>
